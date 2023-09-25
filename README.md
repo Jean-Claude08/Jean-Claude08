@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jean-Claude
 - 👀 I’m interested in learning new programing languages
-- 📫 How to reach me jeanclaudeoliveirapina@gmail.com / jeanclaude28.dev@gmail.com
+- 📫 How to reach me jeanclaude.dev@outlook.pt
 
 <!---
 Jean-Claude08/Jean-Claude08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
