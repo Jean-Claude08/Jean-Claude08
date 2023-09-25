@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Jean-Claude
 - 👀 I’m interested in learning new programing languages
+- 💻 Currently I'm intrested in Web Developing
 - 📫 How to reach me jeanclaude.dev@outlook.pt
 
 <!---
